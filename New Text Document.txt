@@ -1,0 +1,403 @@
+city
+‘Abbasabad
+‘Ajab Shir
+‘Aliabad-e Katul
+‘Anbarabad
+Ab Bar
+Abadan
+Abadeh
+Abarkuh
+Abdanan
+Abhar
+Abu Musa
+Abyek
+Ahar
+Ahram
+Ahvaz
+Aleshtar
+Aligudarz
+Alvand
+Amlash
+Amol
+Anar
+Andimeshk
+Aq Qala
+Aradan
+Arak
+Arakvaz-e Malekshahi
+Aran Bidgol
+Ardabil
+Ardakan
+Ardal
+Ardestan
+Ardsalem
+Arsanjan
+Arzu’iyeh
+Asadabad
+Asadiyeh
+Ashkez¯ar
+Ashkhaneh
+Ashtian
+Astaneh-ye Ashrafiyeh
+Astara
+Azadshahr
+Az¯arshahr
+Azna
+Babol
+Babolsar
+Bafq
+Baft
+Bagh-e Malek
+Bahar
+Bajestan
+Bam
+Bandar ‘Abbas
+Bandar-e ‘Asaluyeh
+Bandar-e Anzali
+Bandar-e Bushehr
+Bandar-e Deylam
+Bandar-e Ganaveh
+Bandar-e Gaz
+Bandar-e Khamir
+Bandar-e Lengeh
+Bandar-e Mahshahr
+Bandar-e Torkaman
+Baneh
+Bardaskan
+Bardsir
+Basht
+Bastak
+Behabad
+Behbahan
+Behshahr
+Bijar
+Bileh Savar
+Birjand
+Bojnurd
+Bonab
+Borazjan
+Borujen
+Borujerd
+Boshruyeh
+Bostanabad
+Bozghan
+Bu’in Zahra
+Bukan
+Chabahar
+Chadegan
+Chalus
+Charam
+Chelgard
+Chenaran
+Dalgan
+Damavand
+Damghan
+Darab
+Daran
+Dargaz
+Darreh Shahr
+Dehaqan
+Dehdasht
+Dehgolan
+Dehloran
+Delijan
+Deyr
+Dezful
+Divandarreh
+Do Gonbadan
+Dorud
+Dowlatabad
+Dowlatabad
+Dust Mo?ammad Khan
+Eqlid
+Esfahan
+Esfarayen
+Eshtehard
+Eslamabad
+Eslamabad-e Gharb
+Eslamshahr
+Estahban
+Eyvan
+Fahraj
+Falavarjan
+Famenin
+Farashband
+Fareydunshahr
+Fariman
+Farmahin
+Farsan
+Faruj
+Faryab
+Fasa
+Ferdows
+Fereydunkenar
+Fey?abad
+Firuzabad
+Firuzkuh
+Fuman
+Galikesh
+Galugah
+Garmeh
+Garmsar
+Gavbandi
+Gerash
+Germi
+Gilan-e Gharb
+Givi
+Golpayegan
+Gomishan
+Gonabad
+Gonbad-e Kavus
+Gorgan
+Haftkel
+?ajjiabad
+?ajjiabad
+?ajjiabad
+Hamadan
+Harsin
+Hashtgerd
+Hashtpar
+Hashtrud
+Hendijan
+Heris
+Hoveyzeh
+Ilam
+Iranshahr
+Iz¯eh
+Jahrom
+Jajarm
+Jam
+Jask
+Javanrud
+Jiroft
+Joghtay
+Jolfa
+Juybar
+Kabudarahang
+Kahnuj
+Kalaleh
+Kalat-e Naderi
+Kaleybar
+Kamyaran
+Kangan
+Kangavar
+Karaj
+Kashan
+Kashmar
+Kavar
+Kazerun
+Kerend-e Gharb
+Kerman
+Kermanshah
+Khalilabad
+Khalkhal
+Khash
+Kherameh
+Khodabandeh
+Khomarlu
+Khomeyn
+Khomeyni Shahr
+Khondab
+Khonj
+Khorramabad
+Khorramdarreh
+Khorramshahr
+Khowrmuj
+Khur
+Khvaf
+Khvansar
+Khvoy
+Komijan
+Konarak
+Kord Kuy
+Kuhbanan
+Kuhdasht
+Lahijan
+Lali
+Lamerd
+Langarud
+Likak
+Lordegan
+Mahabad
+Ma?allat
+Ma?mudabad
+Mahneshan
+Maku
+Malard
+Malayer
+Malekan
+Mamuniyeh
+Manujan
+Maragheh
+Marand
+Maraveh Tappeh
+Marivan
+Marvdasht
+Masal
+Mashhad
+Masiri
+Masjed Soleyman
+Mehdishahr
+Mehran
+Mehriz
+Meshgin Shahr
+Meyami
+Meybod
+Miandoab
+Mianeh
+Minab
+Minudasht
+Mobarakeh
+Mo?ammadabad
+Mohr
+Mollas¯ani
+Na’in
+Nahavand
+Najafabad
+Namin
+Naqadeh
+Narmashir
+Nasim Shahr
+Natanz
+Naz¸arabad
+Nehbandan
+Neka
+Neqab
+Neyriz
+Nikshahr
+Nir
+Nishabur
+Nowshahr
+Nur
+Nurabad
+Nurabad
+Omidiyeh
+Orumiyeh
+Oshnaviyeh
+Osku
+Pa’in-e Bazar-e Rudbar
+Pakdasht
+Parsabad
+Paveh
+Piranshahr
+Pishva
+Poldasht
+Poldokhtar
+Pol-e Sefid
+Qa’em Shahr
+Qa’en
+Qal‘eh Ganj
+Qal‘eh-ye Khvajeh
+Qarah Aghaj
+Qarah ?ia’ od Din
+Qasr-e Shirin
+Qazvin
+Qeshm
+Qir
+Qom
+Qorveh
+Quchan
+Rabor
+Rafsanjan
+Ramhormoz
+Ramian
+Ramsar
+Ramshir
+Rasak
+Rasht
+Ravansar
+Ravar
+Razan
+Rey
+Re?vanshahr
+Robat Karim
+Roshtkhvar
+Rudan
+Rudsar
+Sa‘adat Shahr
+Sabzevar
+Safashahr
+Sa?neh
+Salmas
+Sanandaj
+Saqqez
+Sar‘eyn
+Sarab
+Sarab-e Dowreh
+Sarableh
+Sarakhs
+Sarayan
+Sarbisheh
+Sardasht
+Sardasht
+Sari
+Sarpol-e Z¯ahab
+Sarvabad
+Sarvestan
+Saveh
+Semirom
+Semnan
+Sepidan
+Seyah Cheshmeh
+Shabestar
+Shadegan
+Shaft
+Shahin Dezh
+Shahin Shahr
+Shahrak-e Bakharz
+Shahr-e Babak
+Shahr-e Herat
+Shahr-e Kord
+Shahr-e Qadim-e Lar
+Shahr-e Qods
+Shahre?a
+Shahriar
+Shahrud
+Shalamzar
+Shazand
+Shiraz
+Shirvan
+Showt
+Shush
+Shushtar
+Siahkal
+Sirik
+Sirjan
+Sisakht
+Soltanabad
+Sonqor
+Sorkheh
+Sowme‘eh Sara
+Surak
+Suran
+Surian
+Susangerd
+Tabas
+Tabriz
+Tafresh
+Taft
+Tajrish
+Takab
+Takestan
+Taleqan
+Taybad
+Tazehabad
+Tehran
+Tiran
+Tonekabon
+Torbat-e ?eydariyeh
+Torbat-e Jam
+Torqabeh
+Tuyserkan
+Varamin
+Varazqan
+Yasuj
+Yazd
+Zabol
+Zaboli
+Zahedan
+Zanjan
+Zarand
+Zarrin Shahr
+Zarrinabad
+Zehak
