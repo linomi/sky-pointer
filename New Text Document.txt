@@ -1,9 +1,9 @@
 city
-‘Abbasabad
-‘Ajab Shir
-‘Aliabad-e Katul
-‘Anbarabad
-Ab Bar
+â€˜Abbasabad
+â€˜Ajab Shir
+â€˜Aliabad-e Katul
+â€˜Anbarabad
+Ab Barjeasdfkhagsdf
 Abadan
 Abadeh
 Abarkuh
@@ -32,16 +32,16 @@ Ardal
 Ardestan
 Ardsalem
 Arsanjan
-Arzu’iyeh
+Arzuâ€™iyeh
 Asadabad
 Asadiyeh
-Ashkez¯ar
+AshkezÂ¯ar
 Ashkhaneh
 Ashtian
 Astaneh-ye Ashrafiyeh
 Astara
 Azadshahr
-Az¯arshahr
+AzÂ¯arshahr
 Azna
 Babol
 Babolsar
@@ -51,8 +51,8 @@ Bagh-e Malek
 Bahar
 Bajestan
 Bam
-Bandar ‘Abbas
-Bandar-e ‘Asaluyeh
+Bandar â€˜Abbas
+Bandar-e â€˜Asaluyeh
 Bandar-e Anzali
 Bandar-e Bushehr
 Bandar-e Deylam
@@ -81,7 +81,7 @@ Borujerd
 Boshruyeh
 Bostanabad
 Bozghan
-Bu’in Zahra
+Buâ€™in Zahra
 Bukan
 Chabahar
 Chadegan
@@ -163,7 +163,7 @@ Heris
 Hoveyzeh
 Ilam
 Iranshahr
-Iz¯eh
+IzÂ¯eh
 Jahrom
 Jajarm
 Jam
@@ -250,8 +250,8 @@ Minudasht
 Mobarakeh
 Mo?ammadabad
 Mohr
-Mollas¯ani
-Na’in
+MollasÂ¯ani
+Naâ€™in
 Nahavand
 Najafabad
 Namin
@@ -259,7 +259,7 @@ Naqadeh
 Narmashir
 Nasim Shahr
 Natanz
-Naz¸arabad
+NazÂ¸arabad
 Nehbandan
 Neka
 Neqab
@@ -275,7 +275,7 @@ Omidiyeh
 Orumiyeh
 Oshnaviyeh
 Osku
-Pa’in-e Bazar-e Rudbar
+Paâ€™in-e Bazar-e Rudbar
 Pakdasht
 Parsabad
 Paveh
@@ -284,12 +284,12 @@ Pishva
 Poldasht
 Poldokhtar
 Pol-e Sefid
-Qa’em Shahr
-Qa’en
-Qal‘eh Ganj
-Qal‘eh-ye Khvajeh
+Qaâ€™em Shahr
+Qaâ€™en
+Qalâ€˜eh Ganj
+Qalâ€˜eh-ye Khvajeh
 Qarah Aghaj
-Qarah ?ia’ od Din
+Qarah ?iaâ€™ od Din
 Qasr-e Shirin
 Qazvin
 Qeshm
@@ -314,14 +314,14 @@ Robat Karim
 Roshtkhvar
 Rudan
 Rudsar
-Sa‘adat Shahr
+Saâ€˜adat Shahr
 Sabzevar
 Safashahr
 Sa?neh
 Salmas
 Sanandaj
 Saqqez
-Sar‘eyn
+Sarâ€˜eyn
 Sarab
 Sarab-e Dowreh
 Sarableh
@@ -331,7 +331,7 @@ Sarbisheh
 Sardasht
 Sardasht
 Sari
-Sarpol-e Z¯ahab
+Sarpol-e ZÂ¯ahab
 Sarvabad
 Sarvestan
 Saveh
@@ -367,7 +367,7 @@ Sisakht
 Soltanabad
 Sonqor
 Sorkheh
-Sowme‘eh Sara
+Sowmeâ€˜eh Sara
 Surak
 Suran
 Surian
